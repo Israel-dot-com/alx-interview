@@ -3,7 +3,7 @@
 
 
 def minOperations(n):
-    ''' Finds the Miinimum Operation 
+    ''' Finds the Miinimum Operation
     required
     '''
     if n <= 1:
