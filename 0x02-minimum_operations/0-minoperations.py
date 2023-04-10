@@ -1,5 +1,11 @@
 #!/usr/bin/python3
+'''Min Operation Interview Problem'''
+
+
 def minOperations(n):
+    ''' Finds the Miinimum Operation 
+    required
+    '''
     if n <= 1:
         return 0
     operations = 0
