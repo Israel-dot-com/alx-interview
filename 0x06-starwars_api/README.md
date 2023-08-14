@@ -1,1 +1,1 @@
-Write a script that prints all characters of a Star Wars movie
+Write a script that prints all characters of a Star Wars movie.
